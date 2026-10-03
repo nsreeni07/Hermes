@@ -1,0 +1,67 @@
+Designator,Footprint,Quantity,Value,LCSC Part #,Link
+BUZZER1,BUZ-SMD_4P-L7.5-W7.5-P7.59-TL,1,MLT-7525,C95299,https://www.lcsc.com/product-detail/C95299.html?s_z=n_q_C95299&globalKeyword=C95299
+C1,805,1,2.2 uf,,https://www.lcsc.com/product-detail/C23630.html?s_z=n_q_t_2.2%2520uf
+"C10, C11, C3, C4, C9",805,5,22uF,,https://www.lcsc.com/product-detail/C59461.html?s_z=n_q_t_22uF
+C12,603,1,2.7nF,,https://www.lcsc.com/product-detail/C106251.html?s_z=n_q_t_2.7nF
+C13,603,1,33pF,,https://www.lcsc.com/product-detail/C1663.html?s_z=n_q_t_33pF
+"C14, C15, C16, C17, C20, C21, C22, C23, C24, C25, C26, C31, C32",402,13,100nF,,https://www.lcsc.com/product-detail/C14663.html?s_z=n_q_t_100nF
+C18,402,1,0.1uF,,https://www.lcsc.com/product-detail/C14663.html?s_z=n_q_t_0.1uF
+C19,402,1,10uF,,https://www.lcsc.com/product-detail/C19702.html?s_z=n_q_t_10uF
+"C2, C7",603,2,100nF,,https://www.lcsc.com/product-detail/C14663.html?s_z=n_q_t_100nF
+C27,402,1,10pF,,https://www.lcsc.com/product-detail/C1634.html?s_z=n_q_t_10pF&spm=wm.fly.bg.0.xh&lcsc_vid=QVZYVlNURFFXBlYATlRbVVAHTwdXUwVVQ1JWVQcAQVUxVlNfRlFaXldXRFZeVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D
+"C28, C29",402,2,2.2uF,,https://www.lcsc.com/product-detail/C23630.html?s_z=n_q_t_2.2uF&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=QVZYVlNURFFXBlYATlRbVVAHTwdXUwVVQ1JWVQcAQVUxVlNfRlFaXldQQ1dWUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlVcSQwSGg0%3D
+"C30, C33",402,2,1uF,,https://www.lcsc.com/product-detail/C5199872.html?s_z=n_q_t_1uF&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=QVZYVlNURFFXBlYATlRbVVAHTwdXUwVVQ1JWVQcAQVUxVlNfRlFaXldRTlhcXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlVcSQwSGg0%3D
+C34,402,1,22nF,,https://www.lcsc.com/category/1142.html?scene=FULL_MATCH&globalKeyword=22nF&s_z=n_q_t_22nF&spm=wm.ssy.tc.0.tz&lcsc_vid=QVZYVlNURFFXBlYATlRbVVAHTwdXUwVVQ1JWVQcAQVUxVlNfRlFaXldfQldeUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlVcSQwSGg0%3D
+C36,402,1,4.7uF,,https://www.lcsc.com/product-detail/C1705.html?s_z=n_q_t_4.7uF&spm=wm.fly.bg.0.xh___wm.ssy.tc.1.tz&lcsc_vid=QVZYVlNURFFXBlYATlRbVVAHTwdXUwVVQ1JWVQcAQVUxVlNfRlFaXlBWT1dYXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D
+"C37, C38, C39, C40",402,4,20pF,,https://www.lcsc.com/product-detail/C1648.html?s_z=n_q_t_20pF&spm=wm.fly.bg.0.xh___wm.ssy.tc.1.tz&lcsc_vid=QVZYVlNURFFXBlYATlRbVVAHTwdXUwVVQ1JWVQcAQVUxVlNfRlFaXlBURFZdUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlVcSQwSGg0%3D
+C5,805,1,10uF,,https://www.lcsc.com/product-detail/C19702.html?s_z=n_q_t_10uF&spm=wm.fly.bg.0.xh___wm.ssy.tc.1.tz&lcsc_vid=QVZYVlNURFFXBlYATlRbVVAHTwdXUwVVQ1JWVQcAQVUxVlNfRlFaXlBSQlFfVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlVcSQwSGg0%3D
+C6,805,1,10nF,,https://www.lcsc.com/product-detail/C100042.html?s_z=n_q_t_10nF&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=QVZYVlNURFFXBlYATlRbVVAHTwdXUwVVQ1JWVQcAQVUxVlNfRlFaXlBQRlJdXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlVcSQwSGg0%3D
+C8,805,1,47pF,,https://www.lcsc.com/product-detail/C1671.html?s_z=n_q_t_47pF&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=QVZYVlNURFFXBlYATlRbVVAHTwdXUwVVQ1JWVQcAQVUxVlNfRlFaXlBeR1JaVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlVcSQwSGg0%3D
+CARD1,TF-SMD_TF-01A,1,TF-01A,C91145,https://www.lcsc.com/product-detail/C91145.html?s_z=n_q_C91145&globalKeyword=C91145
+CN1,COMM-SMD_18P-L10.1-W9.7-P1.1-TL_L76-LB,1,ATGM336H-6N-74,C5804601,https://www.lcsc.com/product-detail/C5804601.html?s_z=n_q_C5804601&globalKeyword=C5804601
+"D1, D2",LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm,2,SK6812MINI,,https://www.aliexpress.us/item/3256805007401420.html?spm=a2g0o.productlist.main.3.37c459c75uiWTh&algo_pvid=e919d261-919d-4031-9842-8fcdd98f927a&algo_exp_id=e919d261-919d-4031-9842-8fcdd98f927a-2&pdp_ext_f=%7B%22order%22%3A%22397%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%216.54%211.09%21%21%2143.68%217.27%21%40210327ef17910495943252579e0f61%2112000032072424635%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A44276042%3Bm03_new_user%3A-29895%3BpisId%3A5000000210792318&curPageLogUid=6aUNvXCADmxt&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005193716172%7C_p_origin_prod%3A
+"D10, D3, D6, D7, D8, D9",402,6,LED,C25503345,https://www.lcsc.com/product-detail/C25503345.html?s_z=n_q_C25503345&globalKeyword=C25503345
+D11,402,1,LED,C130723,https://www.lcsc.com/product-detail/C130723.html?s_z=n_q_C130723&globalKeyword=C130723
+D4,402,1,LED,C21260817,https://www.lcsc.com/product-detail/C21260817.html?s_z=n_q_C21260817&globalKeyword=C21260817
+D5,603,1,LED,C22371297,https://www.lcsc.com/product-detail/C22371297.html?s_z=n_q_C22371297&globalKeyword=C22371297
+J1,PinHeader_1x03_P2.54mm_Vertical,1,Conn_01x03_Pin,,https://tinyurl.com/3wcsp2uy
+J2,PinHeader_1x04_P2.54mm_Vertical,1,Conn_01x04_Pin,,https://tinyurl.com/3wcsp2uy
+"J3, J4",PinHeader_1x02_P2.54mm_Vertical,2,Conn_01x02_Pin,,https://tinyurl.com/3wcsp2uy
+"J5, J6",JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical,2,Conn_01x02_Pin,C158012,Already Have
+J7,PinHeader_1x05_P2.54mm_Vertical,1,Conn_01x05_Pin,,https://tinyurl.com/3wcsp2uy
+J8,JST_XH_B4B-XH-AM_1x04_P2.50mm_Vertical,1,Conn_01x04_Pin,,Already Have
+L1,L_Bourns_SRP5030T,1,5.6uH,C46595886,https://www.lcsc.com/product-detail/C46595886.html?s_z=n_q_C46595886&globalKeyword=C46595886
+L2,L_Cenker_CKCS8040,1,3.6uH,C223037,https://www.lcsc.com/product-detail/C223037.html?s_z=n_q_C223037&globalKeyword=C223037
+L3,603,1,47nH,C98076,https://www.lcsc.com/product-detail/C98076.html?s_z=n_q_C98076&globalKeyword=C98076
+L4,L0603,1,FCM1608KF-601T03,C141723,https://www.lcsc.com/product-detail/C141723.html?s_z=n_q_C141723&globalKeyword=C141723
+"M1, M2, M3, M4, M5, M6",PinHeader_1x03_P2.54mm_Vertical,6,Motor_Servo,,https://tinyurl.com/3wcsp2uy
+"P1, P2, P3, P4, P5, P6, P7, P8",CONN-TH_2P-P5.00_WJ500V-5.08-2P,8,WJ500V-5.08-2P-14-00A,C8465,Already have
+"Q1, Q2, Q3",POWER-1212-8_L3.3-W3.3-P0.66-LS3.3-BL,3,SI7232DN-T1-GE3,C144854,https://www.lcsc.com/product-detail/C144854.html?s_z=n_q_C144854&globalKeyword=C144854
+Q7,SOT-89-3_L4.5-W2.4-P1.50-LS4.0-BR,1,2N2222AU,C21714170,https://www.lcsc.com/product-detail/C21714170.html?s_z=n_q_C21714170&globalKeyword=C21714170
+"R1, R2",402,2,5.1K,,https://www.lcsc.com/product-detail/C2907044.html?s_z=n_q_t_5.1K&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=QVZYVlNURFFXBlYATlRbVVAHTwdXUwVVQ1JWVQcAQVUxVlNfRlFbV1ZWQVlcXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVBZVlBXQFFADxALGw%3D%3D
+"R10, R11, R12, R13, R14, R19, R30, R31, R33, R37, R38, R40, R41, R50, R51, R8, R9",402,17,10K,,https://www.lcsc.com/product-detail/C98220.html?s_z=n_q_t_10K&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=QVZYVlNURFFXBlYATlRbVVAHTwdXUwVVQ1JWVQcAQVUxVlNfRlFbV1ZSQlFaXjsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlhXSQwSGg0%3D
+"R15, R16, R18, R25, R26, R27, R28, R32, R34, R35, R36, R39, R42, R43",402,14,1k,,https://www.lcsc.com/product-detail/C22548.html?s_z=n_q_t_1k&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=QVZYVlNURFFXBlYATlRbVVAHTwdXUwVVQ1JWVQcAQVUxVlNfRlFbV1ZRRlZdVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlhXSQwSGg0%3D
+R17,402,1,470,,https://www.lcsc.com/product-detail/C2909361.html?s_z=s_q_t_470%25CE%25A9%25200402&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=QVZYVlNURFFXBlYATlRbVVAHTwdXUwVVQ1JWVQcAQVUxVlNfRlFbV1ZeTlhcVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlhXSQwSGg0%3D
+"R20, R4, R6",402,3,22.1k,,https://www.lcsc.com/product-detail/C2960862.html?s_z=n_q_t_22.1k&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=QVZYVlNURFFXBlYATlRbVVAHTwdXUwVVQ1JWVQcAQVUxVlNfRlFbV1dWRVdcUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlhXSQwSGg0%3D
+R21,402,1,120k,,https://www.lcsc.com/product-detail/C25808.html?s_z=n_q_t_120k%27&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=QVZYVlNURFFXBlYATlRbVVAHTwdXUwVVQ1JWVQcAQVUxVlNfRlFbV1dUR1NbUDsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlhXSQwSGg0%3D
+R22,402,1,200K,,https://www.lcsc.com/product-detail/C17954.html?s_z=n_q_t_200K&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=QVZYVlNURFFXBlYATlRbVVAHTwdXUwVVQ1JWVQcAQVUxVlNfRlFbV1dSRVhYUDsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlhXSQwSGg0%3D
+R23,402,1,40K,,https://www.lcsc.com/product-detail/C861392.html?s_z=n_q_t_40K&spm=wm.fly.bg.0.xh___wm.ssy.tc.1.tz&lcsc_vid=QVZYVlNURFFXBlYATlRbVVAHTwdXUwVVQ1JWVQcAQVUxVlNfRlFbV1dTQ1FcUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlhXSQwSGg0%3D
+R24,402,1,550,,https://www.lcsc.com/product-detail/C2912642.html?s_z=n_q_t_550%2520resistor&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=QVZYVlNURFFXBlYATlRbVVAHTwdXUwVVQ1JWVQcAQVUxVlNfRlFbV1dRRVdeUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlhXSQwSGg0%3D
+R29,402,1,75k,,https://www.lcsc.com/product-detail/C2933753.html?s_z=n_q_t_75k&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=QVZYVlNURFFXBlYATlRbVVAHTwdXUwVVQ1JWVQcAQVUxVlNfRlFbV1deQ1hcVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlhXSQwSGg0%3D
+R3,402,1,100k,,https://www.lcsc.com/product-detail/C14675.html?s_z=n_q_t_100k&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=QVZYVlNURFFXBlYATlRbVVAHTwdXUwVVQ1JWVQcAQVUxVlNfRlFbV1BXR1ZcVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlhXSQwSGg0%3D
+R44,402,1,430,,https://www.lcsc.com/product-detail/C2907036.html?s_z=n_q_t_430%2520resistor&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=QVZYVlNURFFXBlYATlRbVVAHTwdXUwVVQ1JWVQcAQVUxVlNfRlFbV1BUT1RbVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlhXSQwSGg0%3D
+R5,402,1,115k,,https://www.lcsc.com/product-detail/C273341.html?s_z=n_q_t_115k&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=QVZYVlNURFFXBlYATlRbVVAHTwdXUwVVQ1JWVQcAQVUxVlNfRlFbV1BRRlNfVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlhXSQwSGg0%3D
+R7,402,1,15.8k,,https://www.lcsc.com/product-detail/C861143.html?s_z=n_q_t_15.8k&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=QVZYVlNURFFXBlYATlRbVVAHTwdXUwVVQ1JWVQcAQVUxVlNfRlFbV1BfRVBYVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlhXSQwSGg0%3D
+RF1,IPEX-SMD_BWIPX-1-001E,1,BWIPX-1-001E,C496552,https://www.lcsc.com/product-detail/C496552.html?s_z=n_q_C496552&globalKeyword=C496552
+"SW1, SW2",SW-SMD_L3.9-W3.0-P4.45,2,TS-1088-AR02016,C720477,https://www.lcsc.com/product-detail/C720477.html?s_z=n_q_C720477&globalKeyword=C720477
+U1,LGA-10_L2.0-W2.0-P0.50-TL_BMP580,1,BMP580,C22391138,https://www.lcsc.com/product-detail/C22391138.html?s_z=n_q_C22391138&globalKeyword=C22391138
+"U10, U11, U12, U13, U8, U9",F0603,6,0438006.WRGT,C206962,https://www.lcsc.com/product-detail/C206962.html?s_z=n_q_C206962&globalKeyword=C206962
+U2,LQFP-100_14x14mm_P0.5mm,1,STM32H743VITx,C114409,https://www.lcsc.com/product-detail/C114409.html?s_z=n_q_C114409&globalKeyword=C114409
+U3,LGA-14_L3.0-W2.5-P0.50-TL,1,ICM-45686,C22459454,https://www.lcsc.com/product-detail/C22459454.html?s_z=n_q_C22459454&globalKeyword=C22459454
+U4,SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL,1,LMR51430XDDCR,C5185863,https://www.lcsc.com/product-detail/C5185863.html?s_z=n_q_C5185863&globalKeyword=C5185863
+U5,SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL-EP-1,1,AP64501SP-13,C2071517,https://www.lcsc.com/product-detail/C2071517.html?s_z=n_q_C2071517&globalKeyword=C2071517
+U6,WIRELM-SMD_RA-02-BL,1,RA-02,C90039,https://www.lcsc.com/product-detail/C90039.html?s_z=n_q_C90039&globalKeyword=C90039
+U7,VQFN-HR-12_L2.5-W2.0-P0.50-BL,1,TPS2121RUXR,C485916,https://www.lcsc.com/product-detail/C485916.html?s_z=n_q_C485916&globalKeyword=C485916
+USB1,USB-C-SMD_TYPE-C16PIN,1,TYPE-C16PIN,C393939,https://www.lcsc.com/product-detail/C393939.html?s_z=n_q_C393939&globalKeyword=C393939
+X1,CRYSTAL-SMD_4P-L3.2-W2.5-BL,1,X322525MOB4SI,C9006,https://www.lcsc.com/product-detail/C9006.html?s_z=n_q_C9006&globalKeyword=C9006
+X2,FC-135R_L3.2-W1.5,1,Q13FC1350000400,C32346,https://www.lcsc.com/product-detail/C32346.html?s_z=n_q_C32346&globalKeyword=C32346

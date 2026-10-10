@@ -1,0 +1,44 @@
+Category,Name,Price,Source,Purpose,,Quantity
+Electronics,JLC PCB ,$250.00,JLCPCB,,,
+,Header Pins,$0.90,https://tinyurl.com/3wcsp2uy,,,1
+,Screw Terminals,$0.00,Already Have,,,1
+,JST Connector ,$0.00,Already Have ,,,1
+,Eggtimer Quantum,$40.00,https://eggtimerrocketry.com/home/altimeters-av-bay/,Dual Depolyement Controller,,1
+,30AWG Wire,$7.76,https://www.aliexpress.com/item/3256808061834409.html,Wire,,1
+,24AWG Wire,$3.14,https://www.aliexpress.us/item/3256806193213283.html?spm=a2g0o.productlist.main.4.385a49d0pX2ahA&aem_p4p_detail=202609211254061260996286571360000432131&algo_pvid=925dba93-2f8e-4d27-9cc5-6e8e32dafe84&algo_exp_id=925dba93-2f8e-4d27-9cc5-6e8e32dafe84-3&pdp_ext_f=%7B%22order%22%3A%222028%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%213.15%211.57%21%21%213.15%211.57%21%40210328df17900204461417844e0f7e%2112000036962435293%21sea%21US%217130607314%21X%211%210%21n_tag%3A-29919%3Bd%3A51af3226%3Bm03_new_user%3A-29895&curPageLogUid=RTv4tXmZfeAo&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006379528035%7C_p_origin_prod%3A&search_p4p_id=202609211254061260996286571360000432131_2,Wire,,1
+,Ipex to SMA ,$1.50,https://www.aliexpress.us/item/3256804886872801.html?spm=a2g0o.productlist.main.1.21923DXC3DXCee&algo_pvid=8a8874c4-a7ac-4883-be32-0c00c2683b31&algo_exp_id=8a8874c4-a7ac-4883-be32-0c00c2683b31-0&pdp_ext_f=%7B%22order%22%3A%2211478%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%211.73%211.50%21%21%2111.53%2110.01%21%4021030f8317900219511972281e0f44%2112000031531116485%21sea%21US%217130607314%21X%211%210%21n_tag%3A-29919%3Bd%3A51af3226%3Bm03_new_user%3A-29895%3BpisId%3A5000000218144182&curPageLogUid=7tEdu1q8JjAe&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005073187553%7C_p_origin_prod%3A,Converter ,,1
+,915mhz Antenna,$3.79,https://www.aliexpress.us/item/3256806722102680.html?spm=a2g0o.productlist.main.39.74e643864rTTpp&algo_pvid=3df79442-0045-45e0-8a46-a6f0c77e92ea&algo_exp_id=3df79442-0045-45e0-8a46-a6f0c77e92ea-34&pdp_ext_f=%7B%22order%22%3A%22575%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%215.41%213.79%21%21%2136.05%2125.23%21%402103128817901660611786276e0fa9%2112000038682894642%21sea%21US%217130607314%21X%211%210%21n_tag%3A-29919%3Bd%3Ae9398af1%3Bm03_new_user%3A-29895&curPageLogUid=1BtjgcZmPN7m&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006908417432%7C_p_origin_prod%3A,Antenna,,1
+,SK6812 Mini,$4.87,https://www.aliexpress.us/item/3256810305129996.html?spm=a2g0o.productlist.main.3.7857NahfNahfVn&algo_pvid=17ea5bc0-f321-4958-8e9a-991732e69cfc&algo_exp_id=17ea5bc0-f321-4958-8e9a-991732e69cfc-2&pdp_ext_f=%7B%22order%22%3A%2241%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%214.87%214.87%21%21%214.87%214.87%21%402101d2e717900236220207854e1113%2112000052582134404%21sea%21US%217130607314%21X%211%210%21n_tag%3A-29919%3Bd%3A51af3226%3Bm03_new_user%3A-29895&curPageLogUid=uVq9fenTz8Rn&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010491444748%7C_p_origin_prod%3A,SMD Led,,1
+,Lipo Battery ,$11.52,https://www.aliexpress.us/item/3256805071060352.html?spm=a2g0o.detail.0.0.3c3287S587S5L6&mp=1&pdp_npi=6%40dis%21USD%21USD+16.44%21USD+11.51%21%21USD+11.51%21%21%21%402101ef5e17901674218466386e0d50%2112000032384487872%21ct%21US%217130607314%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D&_gl=1*wlo30i*_gcl_au*MzE0NDMxMjM4LjE3OTAwMDYwNjU.*_ga*MTQ2NzI4OTQzLjE3OTAxNjU5NzM.*_ga_VED1YSGNC7*czE3OTAxNjU5NzMkbzEkZzEkdDE3OTAxNjc0MjIkajU5JGwwJGgw&gatewayAdapt=glo2usa,Battery for Flight Computers,,2
+,,,,,,
+,,,,,,
+,,,,,,
+Category,Name,Price,Source,Purpose,,Quantity
+Hardware,4.00in Body Tube,$35.54,https://locprecision.com/products/cardboard-airframes?variant=39778656157887,Main Airframe,,2
+,Coupler Tube,$8.02,https://locprecision.com/products/tube-coupler?variant=39778656583871,Coupler Tube/Avionics Bay,,1
+,Engine Block ,$6.18,https://locprecision.com/products/motor-mount-tubing?variant=39778657075391,Engine Block ,,1
+,1/4 U-Bolt,$13.29,https://locprecision.com/products/eye-bolt-set?variant=39778646655167,U Bolt for Avionics and Nose Cone,,3
+,3/8 U-Bolt,$6.00,https://locprecision.com/products/eye-bolt-set?variant=48207573090537,U Bolt on Fin Can,,1
+,M8 Threaded Rods,$6.93,https://tinyurl.com/3h6k9hsu,Threaded Rods for avionics bay,,2
+,M8 Nuts,$6.04,https://tinyurl.com/4r9wnyaz,Nuts For Threaded Rods,,12
+,M2 Shear Pins ,$1.62,https://www.aliexpress.us/item/3256807139253673.html,Shear Pins ,,1
+,Quick Links,$10.24,https://tinyurl.com/3hvfnt9b,Quick Link to attach Parachute Lines,,4
+,Wago Connectors,$7.14,aliexpress.us/item/3256809908420918.html?spm=a2g0o.detail.0.0.8c9b0XkI0XkIkc&mp=1&pdp_npi=6%40dis%21USD%21USD%205.86%21USD%205.45%21%21USD%205.45%21%21%21%402101e81117910640636947235e108f%2112000051124972590%21ct%21US%217130607314%21%211%210%21&_gl=1*wfkgu*_gcl_aw*R0NMLjE3ODYxMTc4MjQuQ2p3S0NBandoTmJUQmhCNEVpd0FzRlNnLXU4TFZRa21sZGE5cGk3aHQyejVjMHJrUVI4UnJUY3dFTmhpRVdIU0hXblBubURITTR2SnpCb0NMRE1RQXZEX0J3RQ..*_gcl_dc*R0NMLjE3ODYxMTc4MjQuQ2p3S0NBandoTmJUQmhCNEVpd0FzRlNnLXU4TFZRa21sZGE5cGk3aHQyejVjMHJrUVI4UnJUY3dFTmhpRVdIU0hXblBubURITTR2SnpCb0NMRE1RQXZEX0J3RQ..*_gcl_au*MTM0NjA1MDQ1MS4xNzg2MTE3ODI0*_ga*MTg4NzQzODQ3Mi4xNzg2MTE3ODM1*_ga_VED1YSGNC7*czE3OTEwNjQwNjMkbzQkZzAkdDE3OTEwNjQwNjMkajYwJGwwJGgw&gatewayAdapt=glo2usa&_randl_shipto=US,Wago to connect pyros,,1
+,Drogue Parachute,$7.85,https://www.apogeerockets.com/index.php?main_page=product_supplies_info&cPath=42_309_274&products_id=2281,Drogue released at apogee,,1
+,Main Parachute,$33.08,https://www.apogeerockets.com/index.php?main_page=product_supplies_info&products_id=2476&cPath=42_309_275,Main Parachute to Slow Descent around 200m,,1
+,Nomex Blankets,$19.32,https://www.apogeerockets.com/Building-Supplies/Parachute-Protection/Cloth/Apogee-12in-Parachute-Protector,Protects Parachutes,,2
+,Shock Cord,$45.40,https://locprecision.com/collections/model-rocket-recovery/products/shock-cords?variant=39778657665215,Holds Parachute and Airframe together,,2
+,Epoxy ,$7.41,https://www.aliexpress.us/item/3256807290234101.html?spm=a2g0o.productlist.main.5.7fdc3731XnZpJO&algo_pvid=bc19f1e0-dbea-423c-bdd0-784f12a75c51&algo_exp_id=bc19f1e0-dbea-423c-bdd0-784f12a75c51-4&pdp_ext_f=%7B%22order%22%3A%2213974%22%2C%22eval%22%3A%221%22%2C%22orig_sl_item_id%22%3A%221005007476548853%22%2C%22orig_item_id%22%3A%221005007115156799%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%217.11%213.32%21%21%2147.31%2122.04%21%402101d33417900221162703858e1431%2112000040909904897%21sea%21US%217130607314%21X%211%210%21n_tag%3A-29919%3Bd%3A51af3226%3Bm03_new_user%3A-29895%3BpisId%3A5000000217814363&curPageLogUid=Lh7jePF5Y7nx&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007476548853%7C_p_origin_prod%3A1005007115156799,Epoxy ,,1
+,Motor Retainer,$6.72,https://locprecision.com/products/z-clip-style-motor-retainer-set?_pos=1&_sid=3f87ff719&_ss=r,Motor Retainer,,1
+,Balsa Wood ,$0.00,Already Have,Fins and ,,
+,,,,,,
+,,,,,,
+Final+Tax+Shipping,,,,,,
+,,,,,,
+LOC ,$140.00,,,,,
+Apogee,$80.00,,,,,
+Aliexpress,$78.00,,,,,
+Egg Timer,$50.00,,,,,
+JLCPCB,$250.00,,,,,
+,,,,,,
+,$598.00,,,,,

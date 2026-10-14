@@ -4,6 +4,7 @@ A 1.7m dual-deployment rocket for both L1 and L2 certification flights, with two
 I made this project as part of my L1 and L2 certifications and to build my knowledge in rocketry and electronics!
 
 PCB:
+
 MCU: STM32H743VIT6
 Barometer: BMP 580
 IMU: ICM-45686

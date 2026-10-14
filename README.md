@@ -4,13 +4,11 @@ A 1.7m dual-deployment rocket for both L1 and L2 certification flights, with two
 I made this project as part of my L1 and L2 certifications and to build my knowledge in rocketry and electronics!
 
 PCB:
-
-MCU: STM32H743VIT6
-Barometer: BMP 580
-IMU: ICM-45686
-GPS: ATGM336
-LORA: Ra-02
-Micro SD card reader
+* MCU: STM32H743VIT6
+* Barometer: BMP 580
+* IMU: ICM-45686
+* GPS: ATGM336
+* LORA: Ra-02
 
 
 Onshape: https://cad.onshape.com/documents/f1774f8f284ac4e0e452cbcf/w/6986ab179f432bdf2c956942/e/921751107e9de1a38870b9fc?renderMode=0&uiState=6ab27dc4d25247d8c4bdd9d4

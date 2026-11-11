@@ -3,7 +3,7 @@ title: "Hermes"
 github: "https://github.com/nsreeni07/Hermes/"
 description: "A 1.7m dual-deployment rocket for both L1 and L2 certification flights, with two redundant flight computers each able to trigger deployment independently. The custom Polaris board also logs data and GPS, with LoRa telemetry in progress for live ground tracking.\n\n"
 created_at: "2026-11-10"
-total_time: "8h 48m"
+total_time: "9h 48m"
 ---
 
 # November 10, 2026: OpenRocket
@@ -78,3 +78,12 @@ You may see that I have also made a flight computer for this project, I am not r
 ![](https://fabricate.hackclub-assets.com/ae9672457b4e9b618f6cc1a56e049ff4bb28fac9cce052931bba881f1cf2f695/image-png/image.png)
 
 **Total time spent: 6m**
+
+# November 10, 2026 (entry 7): Sled Update
+<!-- fabricate:entry 2598 -->
+
+so today I updated my bom because I'm only asking funding for the rocket as previously said also i asked in the help channel wheter i could buy this runcam as part of my grant and hopefully I can because there is this used one for a really good price and if I cant thats fine too, my total right now is 400 and with the runcam would go to 485 other than that I updated the cad model and the onshape and after i get the confirmation for the runcam i'm gonna submit. 
+
+![](https://fabricate.hackclub-assets.com/d4d5e188c19998043f9bc12d30c0785ba4e53bf64d451ba5b4d8a21971be0841/image-png/image.png)
+
+**Total time spent: 1h**

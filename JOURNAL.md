@@ -3,7 +3,7 @@ title: "Hermes"
 github: "https://github.com/nsreeni07/Hermes/"
 description: "A 1.7m dual-deployment rocket for both L1 and L2 certification flights, with two redundant flight computers each able to trigger deployment independently. The custom Polaris board also logs data and GPS, with LoRa telemetry in progress for live ground tracking.\n\n"
 created_at: "2026-11-10"
-total_time: "9h 48m"
+total_time: "10h 18m"
 ---
 
 # November 10, 2026: OpenRocket
@@ -87,3 +87,13 @@ so today I updated my bom because I'm only asking funding for the rocket as prev
 ![](https://fabricate.hackclub-assets.com/d4d5e188c19998043f9bc12d30c0785ba4e53bf64d451ba5b4d8a21971be0841/image-png/image.png)
 
 **Total time spent: 1h**
+
+# November 11, 2026: Fabricate needs some changes
+<!-- fabricate:entry 2619 -->
+
+So I had to change my BOM I dont know how fabricate code works I know they use ai to do the inital screening but PLEASE PLEASE PLEASE ADD AN OVERIDE BUTTON, this ai is stupid I orignally had a well organized BOM with links and quantity and everything and it looked good too, and the stupid ai kept asking for changes and turned it into this which I dont even know how this is easier for the reviewer?
+
+![](https://fabricate.hackclub-assets.com/815db47dc31ab8a696095819bae9104f08e1360620603e987bd9f318afb30e14/image-png/Screenshot%202026-11-11%20090611.png)
+![](https://fabricate.hackclub-assets.com/b1973ede7041928f4f4fb783710606d9cb5465b884e7aa3dbff6d237addfbd7c/image-png/Screenshot%202026-11-11%20090558.png)
+
+**Total time spent: 30m**

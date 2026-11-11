@@ -12,8 +12,7 @@ PCB:
 
 
 Onshape: https://cad.onshape.com/documents/f1774f8f284ac4e0e452cbcf/w/6986ab179f432bdf2c956942/e/921751107e9de1a38870b9fc?renderMode=0&uiState=6ab27dc4d25247d8c4bdd9d4
-
-<img width="955" height="588" alt="Screenshot 2026-09-20 214607" src="https://github.com/user-attachments/assets/dcec88c1-d25f-4657-bfc7-8f9cc08a5e41" />
+<img width="1317" height="492" alt="Screenshot 2026-10-14 113116" src="https://github.com/user-attachments/assets/b3a013cb-9423-40ca-baba-4bd1c1640ba7" />
 <img width="257" height="743" alt="Screenshot 2026-09-20 215649" src="https://github.com/user-attachments/assets/c6aca9be-8e0c-4876-9ee0-9944535f2768" />
 <img width="342" height="547" alt="Screenshot 2026-09-20 215828" src="https://github.com/user-attachments/assets/04906800-e714-41cb-909b-ced54e8a4f79" />
 <img width="1918" height="1032" alt="Screenshot 2026-09-21 194633" src="https://github.com/user-attachments/assets/8cc96c6a-c5c4-4818-883b-5ef76f427d8d" />
